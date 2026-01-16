@@ -14,3 +14,6 @@ provides input validation, tracks previous guesses, and allows replay.
 - Managing game state in a loop
 - Using sets to prevent duplicate guesses
 - Validating user input
+
+## Demo
+![Game Screenshot](screenshot2.JPG)
