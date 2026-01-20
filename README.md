@@ -1,3 +1,5 @@
+## Word Guessing Game
+
 ## Overview
 A command-line word guessing game written in Python where players attempt
 to uncover a hidden word by guessing one letter at a time. The game
